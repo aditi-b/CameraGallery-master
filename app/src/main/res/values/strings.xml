@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraGallery</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="aditi_bhardwaj">ADITI BHARDWAJ</string>
+    <string name="display_multiple_images">Display multiple images</string>
+    <string name="multiple">Multiple</string>
+</resources>
